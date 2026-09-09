@@ -1,1 +1,49 @@
+class Solution {
+    public ListNode sortList(ListNode head) {
+        if (head == null || head.next == null) return head;
 
+        ListNode mid = middle(head);
+        ListNode right = mid.next;
+        mid.next = null;
+
+        ListNode left = sortList(head);
+        right = sortList(right);      
+
+        return merge(left, right); 
+    }
+
+    private ListNode middle(ListNode head) {
+        if (head == null || head.next == null) return head;
+        ListNode slow = head, fast = head.next;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    private ListNode merge(ListNode h1, ListNode h2) {
+        ListNode dummy = new ListNode(-1);
+        ListNode current = dummy;
+
+        while (h1 != null && h2 != null) {
+            if (h1.val <= h2.val) {
+                current.next = h1;
+                h1 = h1.next;
+            } else {
+                current.next = h2;
+                h2 = h2.next;
+            }
+            current = current.next;
+        }
+
+        if (h1 != null) {
+            current.next = h1;
+        } else {
+            current.next = h2;
+        }
+
+        return dummy.next;
+    }
+}
