@@ -1,1 +1,17 @@
+1. Time Complexity
+Time complexity describes how the running time of an algorithm grows as the input size (n) increases.
+It does not measure the actual time in seconds. Instead, it measures the number of basic operations an algorithm performs.
+Example: Constant Time – O(1)
+arr = [10, 20, 30, 40]
+print(arr[2])
 
+2. Space Complexity
+Space complexity describes how much extra memory an algorithm uses as the input size grows.
+It includes variables, temporary arrays, recursion stack, and other additional storage.
+Example: Constant Space – O(1)
+def sum_numbers(a, b):
+    return a + b
+
+Difference:
+Time Complexity = How long the algorithm takes to run as the input grows.
+Space Complexity = How much additional memory the algorithm uses as the input grows.
