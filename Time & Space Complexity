@@ -15,3 +15,9 @@ def sum_numbers(a, b):
 Difference:
 Time Complexity = How long the algorithm takes to run as the input grows.
 Space Complexity = How much additional memory the algorithm uses as the input grows.
+
+Example: Linear Space – O(n)
+arr = [1, 2, 3, 4]
+copy = []
+for num in arr:
+    copy.append(num)
