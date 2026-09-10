@@ -14,4 +14,4 @@ def sum_numbers(a, b):
 
 Difference:
 Time Complexity = How long the algorithm takes to run as the input grows.
-Space Complexity = How much additional memory the algorithm uses as the input grows.
+Space Complexity = How much additional memory the algorithm uses as the input grows
