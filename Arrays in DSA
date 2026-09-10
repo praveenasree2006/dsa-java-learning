@@ -1,1 +1,38 @@
+Arrays in DSA
+An array is a data structure used to store multiple values of the same type in a single variable.
+1. Simple Example
+int mark1 = 80;
+int mark2 = 75;
+int mark3 = 90;
+int mark4 = 85;
 
+Traversing an Array
+We can use a for loop to access every element.
+for(int i = 0; i < arr.length; i++) {
+    System.out.println(arr[i]);
+}
+
+Intializing in Array
+
+public class Main {
+    public static void main(String[] args) {
+
+        // Declaration
+        int[] arr;
+
+        // Creating an array
+        arr = new int[5];
+
+        // Assigning values
+        arr[0] = 10;
+        arr[1] = 20;
+        arr[2] = 30;
+        arr[3] = 40;
+        arr[4] = 50;
+
+        // Printing the array
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(arr[i]);
+        }
+    }
+}
