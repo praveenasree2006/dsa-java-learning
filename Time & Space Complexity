@@ -20,4 +20,4 @@ Example: Linear Space – O(n)
 arr = [1, 2, 3, 4]
 copy = []
 for num in arr:
-    copy.append(num)
+  
