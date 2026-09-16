@@ -16,7 +16,6 @@ public class Solution {
             oldToNew.get(curr).random = oldToNew.get(curr.random);
             curr = curr.next;
         }
-        
         return oldToNew.get(head);
     }
 }
