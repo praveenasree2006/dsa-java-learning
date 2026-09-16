@@ -11,12 +11,3 @@ class MinStack {
     public int top() { return s.isEmpty() ? -1 : s.peek(); }
     public int getMin() { return st.isEmpty() ? -1 : st.peek(); }
 }
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(value);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
