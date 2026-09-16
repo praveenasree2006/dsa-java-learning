@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
 ## Math
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
