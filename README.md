@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
