@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
 | [0493-reverse-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
 ## Merge Sort
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
 ## Treap
 |  |
 | ------- |
