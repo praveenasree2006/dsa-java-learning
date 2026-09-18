@@ -22,3 +22,4 @@ class Solution {
 
         return res == n + 1 ? -1 : res;
     }
+}
