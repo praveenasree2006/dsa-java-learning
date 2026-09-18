@@ -4,10 +4,8 @@ class Solution {
 
         int area1 = (ax2 - ax1) * (ay2 - ay1);
         int area2 = (bx2 - bx1) * (by2 - by1);
-
         int overlap_width =
             Math.max(0, Math.min(ax2, bx2) - Math.max(ax1, bx1));
-
         int overlap_height =
             Math.max(0, Math.min(ay2, by2) - Math.max(ay1, by1));
 
