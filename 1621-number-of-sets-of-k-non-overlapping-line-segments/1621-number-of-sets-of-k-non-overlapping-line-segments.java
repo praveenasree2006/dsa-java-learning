@@ -1,7 +1,6 @@
 class Solution {
 
     private static final int MOD = 1000000007;
-
     public int numberOfSets(int n, int k) {
         int[] dp = new int[n];
         int[] prefixSums = new int[n + 1];
