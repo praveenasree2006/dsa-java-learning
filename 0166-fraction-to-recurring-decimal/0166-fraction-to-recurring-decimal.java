@@ -6,7 +6,6 @@ class Solution {
         StringBuilder fraction = new StringBuilder();
         if (numerator < 0 ^ denominator < 0)
             fraction.append("-");        
-
         long dividend = Math.abs(Long.valueOf(numerator));
         long divisor = Math.abs(Long.valueOf(denominator));
         fraction.append(dividend / divisor);
