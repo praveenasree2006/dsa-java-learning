@@ -17,7 +17,6 @@ public class Solution {
                 }
             }
         }
-
         return -1; // This should not be reached
     }
 
