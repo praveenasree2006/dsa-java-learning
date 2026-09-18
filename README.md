@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0166-fraction-to-recurring-decimal) |
+| [0520-detect-capital](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0520-detect-capital) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 ## Enumeration
 |  |
