@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
+| [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0520-detect-capital) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 ## Greedy
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 ## Divide and Conquer
 |  |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
+## Memoization
+|  |
+| ------- |
+| [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 <!---LeetCode Topics End-->
