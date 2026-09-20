@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0177-nth-highest-salary) |
 | [0577-employee-bonus](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1148-article-views-i) |
