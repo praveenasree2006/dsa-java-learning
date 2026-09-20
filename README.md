@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0166-fraction-to-recurring-decimal) |
+| [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0520-detect-capital) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
+| [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
