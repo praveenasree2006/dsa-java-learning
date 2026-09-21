@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
 | [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3524-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
 | ------- |
