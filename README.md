@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1544-make-the-string-great](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1544-make-the-string-great) |
 | [3498-reverse-degree-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
+| [1544-make-the-string-great](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
