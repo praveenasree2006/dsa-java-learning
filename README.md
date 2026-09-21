@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0229-majority-element-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0274-h-index) |
+| [0284-peeking-iterator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0493-reverse-pairs) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0284-peeking-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
