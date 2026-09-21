@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
+| [0343-integer-break](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0343-integer-break) |
 | [0479-largest-palindrome-product](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0479-largest-palindrome-product) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
+| [0343-integer-break](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0343-integer-break) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
