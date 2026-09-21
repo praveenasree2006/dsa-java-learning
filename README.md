@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
 | [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
