@@ -16,5 +16,5 @@ class Solution(object):
             else:
                 map[substring] = 1
         
-        return result
+        
         
