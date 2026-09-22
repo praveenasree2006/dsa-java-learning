@@ -11,4 +11,3 @@ class Solution(object):
                 Roman += storeIntRoman[i][1]
                 num -= storeIntRoman[i][0]
         return Roman
-        
