@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0274-h-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0343-integer-break](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0343-integer-break) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Function
 |  |
