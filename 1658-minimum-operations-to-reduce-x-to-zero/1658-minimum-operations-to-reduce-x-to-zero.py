@@ -5,22 +5,22 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        s = sum(nums)
-        n = len(nums)
-        goal = s - x
-        max_length = -1
-        left = 0
-        current_sum = 0
-
-        for right, num in enumerate(nums):
-            current_sum += num
-            # if larger, move `left` to right
-            while current_sum > goal and left <= right:
-                current_sum -= nums[left]
-                left += 1
-            # check if equal
-            if current_sum == goal:
-                max_length = max(max_length, right-left+1)
-
-        return n - max_length if max_length != -1 else -1
+        total = sum(nums)
+        target = total - x
+        if target < 0:
+            return -1
         
+        max_len = -1
+        curr_sum = 0
+        left = 0
+        
+        for right in range(len(nums)):
+            curr_sum += nums[right]
+            while curr_sum > target and left <= right:
+                curr_sum -= nums[left]
+                left += 1
+            if curr_sum == target:
+                max_len = max(max_len, right - left + 1)
+        
+        return len(nums) - max_len if max_len != -1 else -1
+       
