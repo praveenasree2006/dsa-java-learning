@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 | [1544-make-the-string-great](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1544-make-the-string-great) |
 ## Greedy
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [0572-subtree-of-another-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
