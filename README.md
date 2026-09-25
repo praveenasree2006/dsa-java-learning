@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0824-goat-latin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1189-maximum-number-of-balloons) |
