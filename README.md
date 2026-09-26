@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
 | [0458-poor-pigs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0479-largest-palindrome-product) |
+| [0504-base-7](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0504-base-7) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
+| [0504-base-7](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0521-longest-uncommon-subsequence-i) |
