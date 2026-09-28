@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0679-24-game) |
 | [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0479-largest-palindrome-product) |
 | [0504-base-7](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0504-base-7) |
+| [0679-24-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
 | [1266-minimum-time-visiting-all-points](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1266-minimum-time-visiting-all-points) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0357-count-numbers-with-unique-digits) |
+| [0679-24-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 ## Memoization
 |  |
