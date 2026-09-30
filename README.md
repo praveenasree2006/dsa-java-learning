@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0876-middle-of-the-linked-list) |
 | [1332-remove-palindromic-subsequences](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1332-remove-palindromic-subsequences) |
 ## Pigeonhole Principle
 |  |
