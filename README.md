@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0920-number-of-music-playlists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
+| [1175-prime-arrangements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1175-prime-arrangements) |
 | [1266-minimum-time-visiting-all-points](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1360-number-of-days-between-two-dates) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1175-prime-arrangements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1175-prime-arrangements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -546,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
