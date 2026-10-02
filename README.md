@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0876-middle-of-the-linked-list) |
 | [1332-remove-palindromic-subsequences](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1332-remove-palindromic-subsequences) |
 ## Pigeonhole Principle
