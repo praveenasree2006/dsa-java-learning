@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0480-sliding-window-median) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
+| [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0504-base-7) |
 | [0679-24-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 | [0920-number-of-music-playlists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
 | [1175-prime-arrangements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1175-prime-arrangements) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0696-count-binary-substrings) |
+| [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 | [0824-goat-latin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
+| [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 | [0897-increasing-order-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0897-increasing-order-search-tree) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0394-decode-string) |
+| [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
