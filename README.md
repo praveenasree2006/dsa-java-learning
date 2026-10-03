@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0319-bulb-switcher) |
+| [0335-self-crossing](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0357-count-numbers-with-unique-digits) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0335-self-crossing) |
 | [1266-minimum-time-visiting-all-points](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
