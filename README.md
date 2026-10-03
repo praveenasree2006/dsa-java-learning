@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0336-palindrome-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0318-maximum-product-of-word-lengths) |
 | [0336-palindrome-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
