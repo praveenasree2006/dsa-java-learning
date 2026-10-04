@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0546-remove-boxes) |
+| [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [0920-number-of-music-playlists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0920-number-of-music-playlists) |
 | [0956-tallest-billboard](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0956-tallest-billboard) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0696-count-binary-substrings) |
 | [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 | [0824-goat-latin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0824-goat-latin) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
+| [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 | [0897-increasing-order-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0897-increasing-order-search-tree) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
 | [0502-ipo](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
