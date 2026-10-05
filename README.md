@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0032-longest-valid-parentheses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0299-bulls-and-cows) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0032-longest-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0394-decode-string) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0590-n-ary-tree-postorder-traversal) |
