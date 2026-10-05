@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0052-n-queens-ii) |
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0357-count-numbers-with-unique-digits) |
@@ -664,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
