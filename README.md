@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0696-count-binary-substrings) |
 | [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
 | [0824-goat-latin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0824-goat-latin) |
+| [0856-score-of-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0591-tag-validator) |
 | [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
+| [0856-score-of-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0897-increasing-order-search-tree) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
