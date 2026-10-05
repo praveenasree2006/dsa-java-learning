@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0819-most-common-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0905-sort-array-by-parity) |
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
 | [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
+| [0819-most-common-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0696-count-binary-substrings) |
 | [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
+| [0819-most-common-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0859-buddy-strings) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0347-top-k-frequent-elements) |
+| [0819-most-common-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1189-maximum-number-of-balloons) |
 ## Backtracking
