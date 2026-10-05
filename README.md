@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0324-wiggle-sort-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0347-top-k-frequent-elements) |
@@ -650,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
