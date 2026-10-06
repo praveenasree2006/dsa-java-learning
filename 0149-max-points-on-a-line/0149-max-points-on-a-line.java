@@ -5,6 +5,7 @@ class Solution {
             return points.length; 
 
         int max = 0; 
+
         for(int i = 0; i<points.length; i++){
             HashMap<Double, Integer> mp = new HashMap<>(); 
             for(int j = i+1; j<points.length; j++){
