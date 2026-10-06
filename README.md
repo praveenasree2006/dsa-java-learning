@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
 | [0956-tallest-billboard](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0956-tallest-billboard) |
 | [0999-available-captures-for-rook](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0999-available-captures-for-rook) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0868-binary-gap) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Dynamic Programming
 |  |
 | ------- |
