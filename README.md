@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0023-merge-k-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
