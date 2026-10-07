@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0318-maximum-product-of-word-lengths) |
 | [0336-palindrome-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0336-palindrome-pairs) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0052-n-queens-ii) |
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0679-24-game) |
