@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0679-24-game) |
+| [0697-degree-of-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0697-degree-of-an-array) |
 | [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0480-sliding-window-median) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0748-shortest-completing-word) |
