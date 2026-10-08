@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0897-increasing-order-search-tree) |
 | [0924-minimize-malware-spread](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0924-minimize-malware-spread) |
+| [0938-range-sum-of-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Lifting
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0938-range-sum-of-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
