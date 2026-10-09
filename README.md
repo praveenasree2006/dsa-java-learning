@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
+| [0693-binary-number-with-alternating-bits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1018-binary-prefix-divisible-by-5) |
