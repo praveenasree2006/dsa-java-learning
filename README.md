@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0306-additive-number) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0572-subtree-of-another-tree) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0572-subtree-of-another-tree) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0284-peeking-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
