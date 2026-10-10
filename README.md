@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0699-falling-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3525-find-x-value-of-array-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Data Stream
 |  |
 | ------- |
