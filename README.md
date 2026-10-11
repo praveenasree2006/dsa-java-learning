@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0458-poor-pigs) |
 | [0920-number-of-music-playlists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0920-number-of-music-playlists) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3498-reverse-degree-of-a-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
 | ------- |
