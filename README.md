@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
 | [0480-sliding-window-median](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0480-sliding-window-median) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0307-range-sum-query-mutable) |
+| [0355-design-twitter](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0355-design-twitter) |
 | [0480-sliding-window-median](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
