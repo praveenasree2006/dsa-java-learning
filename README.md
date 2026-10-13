@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
 | [0924-minimize-malware-spread](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0924-minimize-malware-spread) |
 ## Game Theory
 |  |
@@ -837,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0543-diameter-of-binary-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
