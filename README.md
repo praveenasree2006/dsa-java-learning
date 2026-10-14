@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0908-smallest-range-i) |
+| [0922-sort-array-by-parity-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0922-sort-array-by-parity-ii) |
 | [0924-minimize-malware-spread](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0924-minimize-malware-spread) |
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
 | [0929-unique-email-addresses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0929-unique-email-addresses) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0502-ipo) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0925-long-pressed-name) |
 | [1332-remove-palindromic-subsequences](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1332-remove-palindromic-subsequences) |
 ## Pigeonhole Principle
