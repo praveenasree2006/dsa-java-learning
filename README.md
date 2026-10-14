@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0819-most-common-word) |
 | [0845-longest-mountain-in-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0845-longest-mountain-in-array) |
+| [0860-lemonade-change](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0905-sort-array-by-parity) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
