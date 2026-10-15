@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
 | [0475-heaters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0475-heaters) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0480-sliding-window-median](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
