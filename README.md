@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Dynamic Programming
 |  |
