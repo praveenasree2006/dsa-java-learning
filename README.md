@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0629-k-inverse-pairs-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0629-k-inverse-pairs-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0845-longest-mountain-in-array) |
