@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0088-merge-sorted-array) |
 | [0149-max-points-on-a-line](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0042-trapping-rain-water) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0233-number-of-digit-one) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0227-basic-calculator-ii) |
 | [0321-create-maximum-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0394-decode-string) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0321-create-maximum-number) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0321-create-maximum-number) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
