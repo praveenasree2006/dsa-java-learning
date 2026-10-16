@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0546-remove-boxes) |
+| [0566-reshape-the-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0566-reshape-the-matrix) |
 | [0587-erect-the-fence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0587-erect-the-fence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0999-available-captures-for-rook) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0304-range-sum-query-2d-immutable) |
+| [0566-reshape-the-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0999-available-captures-for-rook) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
