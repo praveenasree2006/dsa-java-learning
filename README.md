@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0384-shuffle-an-array) |
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
 | [0436-find-right-interval](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0475-heaters) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0384-shuffle-an-array) |
 | [0400-nth-digit](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0400-nth-digit) |
 | [0458-poor-pigs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0384-shuffle-an-array) |
 ## String Matching
 |  |
 | ------- |
