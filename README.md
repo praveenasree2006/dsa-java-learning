@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0384-shuffle-an-array) |
 | [0400-nth-digit](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
 | [0479-largest-palindrome-product](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0479-largest-palindrome-product) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0400-nth-digit](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0744-find-smallest-letter-greater-than-target) |
