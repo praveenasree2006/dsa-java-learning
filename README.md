@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0324-wiggle-sort-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0335-self-crossing) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0264-ugly-number-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0377-combination-sum-iv) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0546-remove-boxes) |
@@ -789,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0566-reshape-the-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0883-projection-area-of-3d-shapes) |
@@ -914,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0924-minimize-malware-spread](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0924-minimize-malware-spread) |
 ## Game Theory
 |  |
@@ -935,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Convex Hull
 |  |
 | ------- |
@@ -943,4 +951,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0587-erect-the-fence) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
