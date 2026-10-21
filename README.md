@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0908-smallest-range-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0770-basic-calculator-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0770-basic-calculator-iv) |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0908-smallest-range-i) |
 | [0920-number-of-music-playlists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0927-three-equal-parts) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0587-erect-the-fence) |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0883-projection-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0999-available-captures-for-rook) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1572-matrix-diagonal-sum) |
