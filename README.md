@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0546-remove-boxes) |
 | [0566-reshape-the-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0587-erect-the-fence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
 | [0480-sliding-window-median](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0480-sliding-window-median) |
+| [0575-distribute-candies](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0697-degree-of-an-array) |
