@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Enumeration
 |  |
 | ------- |
