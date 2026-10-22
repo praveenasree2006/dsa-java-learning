@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1211-queries-quality-and-percentage) |
 ## Design
