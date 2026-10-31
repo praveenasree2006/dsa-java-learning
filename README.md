@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3665-twisted-mirror-path-count) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
 |  |
 | ------- |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Function
 |  |
 | ------- |
