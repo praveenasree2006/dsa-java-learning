@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0516-longest-palindromic-subsequence) |
 | [0546-remove-boxes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0629-k-inverse-pairs-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0504-base-7](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0551-student-attendance-record-i) |
