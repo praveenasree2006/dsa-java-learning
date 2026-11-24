@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
 | [0480-sliding-window-median](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0480-sliding-window-median) |
+| [0508-most-frequent-subtree-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0508-most-frequent-subtree-sum) |
 | [0575-distribute-candies](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0543-diameter-of-binary-tree) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0572-subtree-of-another-tree) |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0543-diameter-of-binary-tree) |
 ## Topological Sort
 |  |
