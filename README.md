@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3665-twisted-mirror-path-count) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2540-minimum-common-value) |
+| [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -847,10 +850,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -997,4 +1002,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
