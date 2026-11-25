@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
+| [0461-hamming-distance](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
 | [0693-binary-number-with-alternating-bits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
