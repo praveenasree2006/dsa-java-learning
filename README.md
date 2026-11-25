@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0318-maximum-product-of-word-lengths) |
 | [0336-palindrome-pairs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0345-reverse-vowels-of-a-string) |
+| [0385-mini-parser](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0433-minimum-genetic-mutation) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0321-create-maximum-number) |
+| [0385-mini-parser](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0394-decode-string) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0385-mini-parser) |
 | [0437-path-sum-iii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0514-freedom-trail) |
