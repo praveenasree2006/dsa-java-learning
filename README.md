@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0933-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0933-number-of-recent-calls) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1012,4 +1014,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
