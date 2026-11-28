@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveenasree2006/dsa-java-learning/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Data Stream
 |  |
 | ------- |
