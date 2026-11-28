@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
 | [0693-binary-number-with-alternating-bits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0693-binary-number-with-alternating-bits) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0397-integer-replacement) |
 | [0458-poor-pigs](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0397-integer-replacement) |
 | [0502-ipo](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0605-can-place-flowers) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/praveenasree2006/dsa-java-learning/tree/master/0546-remove-boxes) |
